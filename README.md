@@ -1,1 +1,1 @@
-# VeronikaTest
+# Návod k používaní
